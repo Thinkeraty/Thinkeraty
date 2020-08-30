@@ -46,6 +46,6 @@
 
 <img align="left" alt="Thinkeraty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Thinkeraty&show_icons=true&hide_border=true" />
 
-[website]: https://showgist.herokuapp.com
+[website]: https://showgist.herokuapp.com/contact
 [twitter]: https://twitter.com/being_samyak
 [instagram]: https://instagram.com/task_failed_successfully.exe
