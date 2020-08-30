@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can the show with 2 Miles really travel the distance?](http://showgist.herokuapp.com/articles/can-the-show-with-2-miles-really-travel-the-distance)
 - [Schitt's Creek | Review](http://showgist.herokuapp.com/articles/schitts-creek-or-review)
 - [Space Force | In-Depth Review](http://showgist.herokuapp.com/articles/space-force-or-in-depth-review)
 - [The Most Interesting Person In The Room | Review](http://showgist.herokuapp.com/articles/the-most-interesting-person-in-the-room-or-review)
 - [Upload | Review | Fun But Familiar](http://showgist.herokuapp.com/articles/upload-or-review-or-fun-but-familiar)
-- [Steve Carrel and Greg Daniels' Latest Masterpiece: Space Force](http://showgist.herokuapp.com/articles/steve-carrel-and-greg-daniels-latest-masterpiece-space-force)
 <!-- BLOG-POST-LIST:END -->
 
 ---
