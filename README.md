@@ -1,17 +1,17 @@
-### You've reached Samyak
+## You've reached Samyak
 
-## Identity Crisis
+### Identity Crisis
 - Working on a million things.
 - Always use semicolons, people
 - Aside from coding, I also suck at drums.
 
 ### Connect with me:
 
-Just dm me on <a href='https://instagram.com/task_failed_successfully.exe'>instagram</a> or hit me up on <a href='https://www.reddit.com/user/Obese_Van_Kenobi'>Reddit</a>
+Just dm me on <a href='https://instagram.com/task_failed_successfully.exe'>Instagram</a> or hit me up on <a href='https://www.reddit.com/user/Obese_Van_Kenobi'>Reddit</a>
 
 <br />
 
-### Languages and Tools I Know:
+### Languages and Tools I (think i) Know:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
