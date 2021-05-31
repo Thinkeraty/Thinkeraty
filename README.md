@@ -1,17 +1,13 @@
 ### Hi there, I'm Samyak! 👋
 
 ## I'm a Student, Developer and a Drummer!
-- 🔭 I’m currently working on a million things!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to blog and play drums in my free time
+- Working on a million things.
+- Always use semicolons, people
+- Aside from coding, I also suck at drums.
 
 ### Connect with me:
 
-[<img align="left" alt="showgist.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="being_samyak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="task_failed_successfully.exe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Just dm me on <a href='https://instagram.com/task_failed_successfully.exe'>instagram</a> or hit me up on <'a href='https://www.reddit.com/user/Obese_Van_Kenobi'>Reddit</a>
 
 <br />
 
@@ -33,19 +29,5 @@
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Can the show with 2 Miles really travel the distance?](http://showgist.herokuapp.com/articles/can-the-show-with-2-miles-really-travel-the-distance)
-- [Schitt's Creek | Review](http://showgist.herokuapp.com/articles/schitts-creek-or-review)
-- [Space Force | In-Depth Review](http://showgist.herokuapp.com/articles/space-force-or-in-depth-review)
-- [The Most Interesting Person In The Room | Review](http://showgist.herokuapp.com/articles/the-most-interesting-person-in-the-room-or-review)
-- [Upload | Review | Fun But Familiar](http://showgist.herokuapp.com/articles/upload-or-review-or-fun-but-familiar)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <img align="left" alt="Thinkeraty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Thinkeraty&show_icons=true&hide_border=true" />
-
-[website]: https://showgist.herokuapp.com/contact
-[twitter]: https://twitter.com/being_samyak
-[instagram]: https://instagram.com/task_failed_successfully.exe
+These are ambarrassing, stop looking at them.
