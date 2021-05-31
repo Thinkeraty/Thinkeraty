@@ -1,13 +1,13 @@
-### Hi there, I'm Samyak! 👋
+### You've reached Samyak
 
-## I'm a Student, Developer and a Drummer!
+## Identity Crisis
 - Working on a million things.
 - Always use semicolons, people
 - Aside from coding, I also suck at drums.
 
 ### Connect with me:
 
-Just dm me on <a href='https://instagram.com/task_failed_successfully.exe'>instagram</a> or hit me up on <'a href='https://www.reddit.com/user/Obese_Van_Kenobi'>Reddit</a>
+Just dm me on <a href='https://instagram.com/task_failed_successfully.exe'>instagram</a> or hit me up on <a href='https://www.reddit.com/user/Obese_Van_Kenobi'>Reddit</a>
 
 <br />
 
